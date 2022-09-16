@@ -150,7 +150,7 @@ main section:nth-child(3){
         transform: translateY(-30px);
     }
 
-    tp{
+    to{
         opacity: 1;
         transform: translateY(0);
     }
@@ -163,7 +163,7 @@ main section:nth-child(3){
         transform: translateY(30px);
     }
 
-    tp{
+    to{
         opacity: 1;
         transform: translateY(0);
     }
